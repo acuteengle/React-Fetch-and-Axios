@@ -1,13 +1,10 @@
 import React from 'react';
-import './App.css';
-import FetchRandomUser from './FetchRandomUser';
-import AxiosRandomUser from './AxiosRandomUser';
+import RandomUser from './components/RandomUser';
 
 function App() {
   return (
     <div>
-      <FetchRandomUser/>
-      <AxiosRandomUser/>
+      <RandomUser />
     </div>
   );
 }
