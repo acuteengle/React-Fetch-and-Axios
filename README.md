@@ -1,3 +1,1 @@
-This project demonstrates 2 ways that you can do make an API request using "fetch" and "axios"
-
-The example that we use is with https://randomuser.me/api/
+This project creates 2 user profiles from randomly generated data pulled from the randomuser API (https://randomuser.me/api/). It makes 2 GET requests using "fetch" and "axios"
