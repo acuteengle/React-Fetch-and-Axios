@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactFetchAxiosRandomUser/static/css/main.fc978b03.chunk.css",
+    "main.js": "/ReactFetchAxiosRandomUser/static/js/main.f28ae134.chunk.js",
+    "main.js.map": "/ReactFetchAxiosRandomUser/static/js/main.f28ae134.chunk.js.map",
+    "runtime-main.js": "/ReactFetchAxiosRandomUser/static/js/runtime-main.720f7aa9.js",
+    "runtime-main.js.map": "/ReactFetchAxiosRandomUser/static/js/runtime-main.720f7aa9.js.map",
+    "static/js/2.c19ae481.chunk.js": "/ReactFetchAxiosRandomUser/static/js/2.c19ae481.chunk.js",
+    "static/js/2.c19ae481.chunk.js.map": "/ReactFetchAxiosRandomUser/static/js/2.c19ae481.chunk.js.map",
+    "index.html": "/ReactFetchAxiosRandomUser/index.html",
+    "precache-manifest.543e50e9905974ee3642a35b34fcbe84.js": "/ReactFetchAxiosRandomUser/precache-manifest.543e50e9905974ee3642a35b34fcbe84.js",
+    "service-worker.js": "/ReactFetchAxiosRandomUser/service-worker.js",
+    "static/css/main.fc978b03.chunk.css.map": "/ReactFetchAxiosRandomUser/static/css/main.fc978b03.chunk.css.map",
+    "static/js/2.c19ae481.chunk.js.LICENSE.txt": "/ReactFetchAxiosRandomUser/static/js/2.c19ae481.chunk.js.LICENSE.txt",
+    "static/media/blur.jpeg": "/ReactFetchAxiosRandomUser/static/media/blur.87f4f003.jpeg",
+    "static/media/polygon.jpg": "/ReactFetchAxiosRandomUser/static/media/polygon.5a11acb6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.720f7aa9.js",
+    "static/js/2.c19ae481.chunk.js",
+    "static/css/main.fc978b03.chunk.css",
+    "static/js/main.f28ae134.chunk.js"
+  ]
+}
